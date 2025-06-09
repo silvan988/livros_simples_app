@@ -1,4 +1,5 @@
 # livros_simples_app
+<<<<<<< HEAD
 
 A new Flutter project.
 
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+Tarefa da matéria Tópicos em Dispositivos Móveis do curso de pós-graduação IFSP São Carlos
+>>>>>>> 3403f3e88fab93006a562ab30596125c245a4bee
